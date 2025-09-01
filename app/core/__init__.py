@@ -1,0 +1,1 @@
+﻿"""Core module for global configuration, dependency injection, logging, and error handling"""
